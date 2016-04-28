@@ -4,7 +4,9 @@
 #include "myprog.h"
 
 int prog_cyclic(int n, double* a, double* b, double* c,
-                      double* f, double* al, double* bt, double* gm, double* p, double* q, double* y)
+                      double* f, double* al, double* bt, 
+                      double* gm, double* p, double* q, 
+                      double* y)
 {
   int i; double s;
 
